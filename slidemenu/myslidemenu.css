@@ -1,13 +1,13 @@
 /* Menu */
-#nav-wrapper{height:40px; padding-right:18px; position:absolute; top:35px; right:20px; background:#f5f5f5; border:1px solid #ddd; border-radius:6px; -o-border-radius:6px; -moz-border-radius:6px; -khtml-border-radius:6px; -webkit-border-radius:6px; z-index:50}
-#nav{float:left; padding-left:13px; margin-top:2px}
-#nav a{text-decoration:none}
-#nav .login a, #nav .rss a, #nav .twitter a{padding:0 6px 0 23px}
-#nav .facebook, #nav .rss, #nav .login{padding-left:6px}
-#nav .login a:hover, .rss a:hover, .facebook a:hover{color:#a1a1a1}
-#nav .login a{background:url(https://lh6.googleusercontent.com/-_IegzA8CB3Y/ThuA2JYqQSI/AAAAAAAAAig/z-FouLmhbwo/mini_icons.png) no-repeat -171px -165px}
-#nav .rss a{background:url(https://lh6.googleusercontent.com/-_IegzA8CB3Y/ThuA2JYqQSI/AAAAAAAAAig/z-FouLmhbwo/mini_icons.png) no-repeat -247px -241px}
-#nav .facebook a{background:url(https://lh6.googleusercontent.com/-_IegzA8CB3Y/ThuA2JYqQSI/AAAAAAAAAig/z-FouLmhbwo/mini_icons.png) no-repeat -100px -100px}
+nav-wrapper{height:40px; padding-right:18px; position:absolute; top:35px; right:20px; background:#f5f5f5; border:1px solid #ddd; border-radius:6px; -o-border-radius:6px; -moz-border-radius:6px; -khtml-border-radius:6px; -webkit-border-radius:6px; z-index:50}
+nav{float:left; padding-left:13px; margin-top:2px}
+nav a{text-decoration:none}
+nav .login a, #nav .rss a, #nav .twitter a{padding:0 6px 0 23px}
+nav .facebook, #nav .rss, #nav .login{padding-left:6px}
+nav .login a:hover, .rss a:hover, .facebook a:hover{color:#a1a1a1}
+nav .login a{background:url(https://lh6.googleusercontent.com/-_IegzA8CB3Y/ThuA2JYqQSI/AAAAAAAAAig/z-FouLmhbwo/mini_icons.png) no-repeat -171px -165px}
+nav .rss a{background:url(https://lh6.googleusercontent.com/-_IegzA8CB3Y/ThuA2JYqQSI/AAAAAAAAAig/z-FouLmhbwo/mini_icons.png) no-repeat -247px -241px}
+nav .facebook a{background:url(https://lh6.googleusercontent.com/-_IegzA8CB3Y/ThuA2JYqQSI/AAAAAAAAAig/z-FouLmhbwo/mini_icons.png) no-repeat -100px -100px}
 
 /* Sliding Menu */
 .jqueryslidemenu ul li a{display:block; height:37px; line-height:35px; outline:none; padding:0 10px; text-align:center}
