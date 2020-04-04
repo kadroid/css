@@ -15,7 +15,7 @@
 		navarea: '20%',
 		curslide: 0,
 		threshold: 75,
-		navbuttons : ['left.png', 'right.png', -10]
+		navbuttons : ['https://kadroid.github.io/css/touch/left.png', 'https://kadroid.github.io/css/touch/right.png', -10]
 	}
 
 	var swipeOptions={
